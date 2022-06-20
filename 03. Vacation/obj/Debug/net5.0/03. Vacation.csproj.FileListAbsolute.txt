@@ -1,0 +1,16 @@
+C:\Users\Ivo\Desktop\Softuni\Fundamentals\02. Exercise - Basic Syntax, Conditional Statements and Loop\03. Vacation\bin\Debug\net5.0\03. Vacation.exe
+C:\Users\Ivo\Desktop\Softuni\Fundamentals\02. Exercise - Basic Syntax, Conditional Statements and Loop\03. Vacation\bin\Debug\net5.0\03. Vacation.deps.json
+C:\Users\Ivo\Desktop\Softuni\Fundamentals\02. Exercise - Basic Syntax, Conditional Statements and Loop\03. Vacation\bin\Debug\net5.0\03. Vacation.runtimeconfig.json
+C:\Users\Ivo\Desktop\Softuni\Fundamentals\02. Exercise - Basic Syntax, Conditional Statements and Loop\03. Vacation\bin\Debug\net5.0\03. Vacation.runtimeconfig.dev.json
+C:\Users\Ivo\Desktop\Softuni\Fundamentals\02. Exercise - Basic Syntax, Conditional Statements and Loop\03. Vacation\bin\Debug\net5.0\03. Vacation.dll
+C:\Users\Ivo\Desktop\Softuni\Fundamentals\02. Exercise - Basic Syntax, Conditional Statements and Loop\03. Vacation\bin\Debug\net5.0\ref\03. Vacation.dll
+C:\Users\Ivo\Desktop\Softuni\Fundamentals\02. Exercise - Basic Syntax, Conditional Statements and Loop\03. Vacation\bin\Debug\net5.0\03. Vacation.pdb
+C:\Users\Ivo\Desktop\Softuni\Fundamentals\02. Exercise - Basic Syntax, Conditional Statements and Loop\03. Vacation\obj\Debug\net5.0\03. Vacation.csproj.AssemblyReference.cache
+C:\Users\Ivo\Desktop\Softuni\Fundamentals\02. Exercise - Basic Syntax, Conditional Statements and Loop\03. Vacation\obj\Debug\net5.0\03. Vacation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivo\Desktop\Softuni\Fundamentals\02. Exercise - Basic Syntax, Conditional Statements and Loop\03. Vacation\obj\Debug\net5.0\03. Vacation.AssemblyInfoInputs.cache
+C:\Users\Ivo\Desktop\Softuni\Fundamentals\02. Exercise - Basic Syntax, Conditional Statements and Loop\03. Vacation\obj\Debug\net5.0\03. Vacation.AssemblyInfo.cs
+C:\Users\Ivo\Desktop\Softuni\Fundamentals\02. Exercise - Basic Syntax, Conditional Statements and Loop\03. Vacation\obj\Debug\net5.0\03. Vacation.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\Desktop\Softuni\Fundamentals\02. Exercise - Basic Syntax, Conditional Statements and Loop\03. Vacation\obj\Debug\net5.0\03. Vacation.dll
+C:\Users\Ivo\Desktop\Softuni\Fundamentals\02. Exercise - Basic Syntax, Conditional Statements and Loop\03. Vacation\obj\Debug\net5.0\ref\03. Vacation.dll
+C:\Users\Ivo\Desktop\Softuni\Fundamentals\02. Exercise - Basic Syntax, Conditional Statements and Loop\03. Vacation\obj\Debug\net5.0\03. Vacation.pdb
+C:\Users\Ivo\Desktop\Softuni\Fundamentals\02. Exercise - Basic Syntax, Conditional Statements and Loop\03. Vacation\obj\Debug\net5.0\03. Vacation.genruntimeconfig.cache
